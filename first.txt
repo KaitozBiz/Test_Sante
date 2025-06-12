@@ -1,2 +1,0 @@
-sample1.py
-print("Hi,Jeena")
